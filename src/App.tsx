@@ -1,26 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+   // src/App.tsx
+   import React from 'react';
+   import GraphVisualization from './components/Graph';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+   function App() { // No props needed
+     return (
+       <div style={{ padding: '20px', width: '100vw', height: '100vh', overflow: 'hidden' }}>
+         <h1 style={{ textAlign: 'center' }}>知识图谱可视化</h1>
+         <GraphVisualization dataUrl="/data/graph_data.json" />
+       </div>
+     );
+   }
 
-export default App;
+   export default App;
+   
