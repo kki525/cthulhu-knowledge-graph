@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cthulhu-knowledge-graph/static/css/main.e6c13ad2.css",
+    "main.js": "/cthulhu-knowledge-graph/static/js/main.6d893c6a.js",
+    "static/js/453.2b1a99a9.chunk.js": "/cthulhu-knowledge-graph/static/js/453.2b1a99a9.chunk.js",
+    "index.html": "/cthulhu-knowledge-graph/index.html",
+    "main.e6c13ad2.css.map": "/cthulhu-knowledge-graph/static/css/main.e6c13ad2.css.map",
+    "main.6d893c6a.js.map": "/cthulhu-knowledge-graph/static/js/main.6d893c6a.js.map",
+    "453.2b1a99a9.chunk.js.map": "/cthulhu-knowledge-graph/static/js/453.2b1a99a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d893c6a.js"
+  ]
+}

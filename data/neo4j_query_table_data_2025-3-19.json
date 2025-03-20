@@ -1,0 +1,8414 @@
+[
+  {
+    "Source": 0,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "discovery_year": 1927
+    }
+  },
+  {
+    "Source": 0,
+    "Target": 288,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 0,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 1,
+    "Target": 146,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 1,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 1,
+    "Target": 289,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 1,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 2,
+    "Target": 147,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 2,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 2,
+    "Target": 290,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 2,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 3,
+    "Target": 148,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 3,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 3,
+    "Target": 291,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 3,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 4,
+    "Target": 149,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 4,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 4,
+    "Target": 292,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 4,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 5,
+    "Target": 150,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 5,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 5,
+    "Target": 293,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 5,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 6,
+    "Target": 151,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 6,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 6,
+    "Target": 294,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 6,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 7,
+    "Target": 152,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 7,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 7,
+    "Target": 295,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 7,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 8,
+    "Target": 153,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 8,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 8,
+    "Target": 296,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 8,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 9,
+    "Target": 154,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 9,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 9,
+    "Target": 297,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 9,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 10,
+    "Target": 155,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 10,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 10,
+    "Target": 298,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 10,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 11,
+    "Target": 156,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 11,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 11,
+    "Target": 299,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 11,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 12,
+    "Target": 152,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 12,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 12,
+    "Target": 300,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 12,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 157,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 13,
+    "Target": 301,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 13,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 13,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 14,
+    "Target": 158,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 14,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 14,
+    "Target": 302,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 14,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 15,
+    "Target": 159,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 15,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 15,
+    "Target": 303,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 15,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 16,
+    "Target": 160,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 16,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 16,
+    "Target": 304,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 16,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 17,
+    "Target": 161,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 17,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 17,
+    "Target": 305,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 17,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 18,
+    "Target": 162,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 18,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 18,
+    "Target": 306,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 18,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 19,
+    "Target": 163,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 19,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 19,
+    "Target": 307,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 19,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 20,
+    "Target": 164,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 20,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 20,
+    "Target": 308,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 20,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 21,
+    "Target": 165,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 21,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 21,
+    "Target": 309,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 21,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 22,
+    "Target": 166,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 22,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 22,
+    "Target": 310,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 22,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 23,
+    "Target": 167,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 23,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 23,
+    "Target": 311,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 23,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 24,
+    "Target": 168,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 24,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 24,
+    "Target": 312,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 24,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 25,
+    "Target": 169,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 25,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 25,
+    "Target": 313,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 25,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 26,
+    "Target": 170,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 26,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 26,
+    "Target": 314,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 26,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 27,
+    "Target": 315,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 27,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 27,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 28,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 28,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 28,
+    "Target": 316,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 28,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 29,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 29,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 29,
+    "Target": 317,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 29,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 30,
+    "Target": 172,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 30,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 30,
+    "Target": 318,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 30,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 31,
+    "Target": 173,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 31,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 31,
+    "Target": 319,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 31,
+    "Target": 382,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 32,
+    "Target": 161,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 32,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 32,
+    "Target": 320,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 32,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 33,
+    "Target": 174,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 33,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 33,
+    "Target": 321,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 33,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 34,
+    "Target": 175,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 34,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 34,
+    "Target": 322,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 34,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 35,
+    "Target": 176,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 35,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 35,
+    "Target": 323,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 35,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 36,
+    "Target": 177,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 36,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 36,
+    "Target": 324,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 36,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 37,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 37,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 37,
+    "Target": 325,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 37,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 38,
+    "Target": 172,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 38,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 38,
+    "Target": 326,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 38,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 39,
+    "Target": 178,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 39,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 39,
+    "Target": 327,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 39,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 40,
+    "Target": 149,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 40,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 40,
+    "Target": 328,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 40,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 41,
+    "Target": 179,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 41,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 41,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 42,
+    "Target": 180,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 42,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 42,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 43,
+    "Target": 181,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 43,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 43,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 44,
+    "Target": 182,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 44,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 44,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 45,
+    "Target": 183,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 45,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 45,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 46,
+    "Target": 184,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 46,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 46,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 47,
+    "Target": 185,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 47,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 47,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 48,
+    "Target": 186,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 48,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 48,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 49,
+    "Target": 187,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 49,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 49,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 50,
+    "Target": 188,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 50,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 50,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 51,
+    "Target": 189,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 51,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 51,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 52,
+    "Target": 190,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 52,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 52,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 53,
+    "Target": 177,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 53,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 53,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 54,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 54,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 54,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 55,
+    "Target": 191,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 55,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 55,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 56,
+    "Target": 192,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 56,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 56,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 57,
+    "Target": 186,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 57,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 57,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 58,
+    "Target": 181,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 58,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 58,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 59,
+    "Target": 193,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 59,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 59,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 60,
+    "Target": 194,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 60,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 60,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 61,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 61,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 61,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 62,
+    "Target": 162,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 62,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 62,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 63,
+    "Target": 195,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 63,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 63,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 64,
+    "Target": 164,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 64,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 64,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 65,
+    "Target": 196,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 65,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 65,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 66,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 66,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 66,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 67,
+    "Target": 0,
+    "RelationshipType": "WROTE",
+    "Properties": {}
+  },
+  {
+    "Source": 67,
+    "Target": 200,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 68,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "discovery_year": 1927
+    }
+  },
+  {
+    "Source": 68,
+    "Target": 329,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 68,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 69,
+    "Target": 146,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 69,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 69,
+    "Target": 330,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 69,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 70,
+    "Target": 147,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 70,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 70,
+    "Target": 331,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 70,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 71,
+    "Target": 148,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 71,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 71,
+    "Target": 332,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 71,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 72,
+    "Target": 149,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 72,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 72,
+    "Target": 333,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 72,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 73,
+    "Target": 150,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 73,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 73,
+    "Target": 334,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 73,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 74,
+    "Target": 151,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 74,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 74,
+    "Target": 335,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 74,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 75,
+    "Target": 152,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 75,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 75,
+    "Target": 336,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 75,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 76,
+    "Target": 153,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 76,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 76,
+    "Target": 337,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 76,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 77,
+    "Target": 154,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 77,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 77,
+    "Target": 338,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 77,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 78,
+    "Target": 155,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 78,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 78,
+    "Target": 339,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 78,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 79,
+    "Target": 156,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 79,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 79,
+    "Target": 340,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 79,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 80,
+    "Target": 152,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 80,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 80,
+    "Target": 341,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 80,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 157,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 81,
+    "Target": 342,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 81,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 81,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 82,
+    "Target": 158,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 82,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 82,
+    "Target": 343,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 82,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 83,
+    "Target": 159,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 83,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 83,
+    "Target": 344,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 83,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 84,
+    "Target": 160,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 84,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 84,
+    "Target": 345,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 84,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 85,
+    "Target": 161,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 85,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 85,
+    "Target": 346,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 85,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 86,
+    "Target": 162,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 86,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 86,
+    "Target": 347,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 86,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 87,
+    "Target": 163,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 87,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 87,
+    "Target": 348,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 87,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 88,
+    "Target": 164,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 88,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 88,
+    "Target": 349,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 88,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 89,
+    "Target": 165,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 89,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 89,
+    "Target": 350,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 89,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 90,
+    "Target": 166,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 90,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 90,
+    "Target": 351,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 90,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 91,
+    "Target": 167,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 91,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 91,
+    "Target": 352,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 91,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 92,
+    "Target": 168,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 92,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 92,
+    "Target": 353,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 92,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 93,
+    "Target": 169,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 93,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 93,
+    "Target": 354,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 93,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 94,
+    "Target": 170,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 94,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 94,
+    "Target": 355,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 94,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 95,
+    "Target": 356,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 95,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 95,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 96,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 96,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 96,
+    "Target": 357,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 96,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 97,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 97,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 97,
+    "Target": 358,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 97,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 98,
+    "Target": 172,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 98,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 98,
+    "Target": 359,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 98,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 99,
+    "Target": 173,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 99,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 99,
+    "Target": 360,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 99,
+    "Target": 382,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 100,
+    "Target": 161,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 100,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 100,
+    "Target": 361,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 100,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 101,
+    "Target": 174,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 101,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 101,
+    "Target": 362,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 101,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 102,
+    "Target": 175,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 102,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 102,
+    "Target": 363,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 102,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 103,
+    "Target": 176,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 103,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 103,
+    "Target": 364,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 103,
+    "Target": 381,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 104,
+    "Target": 177,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 104,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 104,
+    "Target": 365,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 104,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 105,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 105,
+    "Target": 199,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 105,
+    "Target": 366,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 105,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 106,
+    "Target": 172,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 106,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 106,
+    "Target": 367,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 106,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 107,
+    "Target": 178,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 107,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 107,
+    "Target": 368,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 107,
+    "Target": 380,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 108,
+    "Target": 149,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 108,
+    "Target": 197,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 108,
+    "Target": 369,
+    "RelationshipType": "HAS_THEMATIC_COMPONENT",
+    "Properties": {}
+  },
+  {
+    "Source": 108,
+    "Target": 379,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "discovery_year": 2021
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 386,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 45.6,
+      "tech": 81.4
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 109,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 388,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 109,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.4
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.9
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 109,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 384,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 65.1,
+      "tech": 328.1
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 385,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 65.1,
+      "tech": 328.1
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 389,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 110,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": -0.19999999999999996
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.30000000000000004
+    }
+  },
+  {
+    "Source": 110,
+    "Target": 397,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.8
+    }
+  },
+  {
+    "Source": 111,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 0.99
+    }
+  },
+  {
+    "Source": 111,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 111,
+    "Target": 389,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 111,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": -0.19999999999999996
+    }
+  },
+  {
+    "Source": 111,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.30000000000000004
+    }
+  },
+  {
+    "Source": 111,
+    "Target": 397,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.8
+    }
+  },
+  {
+    "Source": 112,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 112,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 112,
+    "Target": 388,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 112,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.30000000000000004
+    }
+  },
+  {
+    "Source": 112,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.8
+    }
+  },
+  {
+    "Source": 113,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 0.99
+    }
+  },
+  {
+    "Source": 113,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 113,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": -0.30000000000000004
+    }
+  },
+  {
+    "Source": 113,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.19999999999999996
+    }
+  },
+  {
+    "Source": 113,
+    "Target": 397,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.7
+    }
+  },
+  {
+    "Source": 114,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 115,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 115,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 115,
+    "Target": 388,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 115,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.19999999999999996
+    }
+  },
+  {
+    "Source": 115,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.7
+    }
+  },
+  {
+    "Source": 116,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 116,
+    "Target": 387,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 116,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 1.0
+    }
+  },
+  {
+    "Source": 117,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 117,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 117,
+    "Target": 388,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 117,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.19999999999999996
+    }
+  },
+  {
+    "Source": 117,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.7
+    }
+  },
+  {
+    "Source": 118,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 118,
+    "Target": 387,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 118,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.8
+    }
+  },
+  {
+    "Source": 119,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 119,
+    "Target": 387,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 119,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.6
+    }
+  },
+  {
+    "Source": 120,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 120,
+    "Target": 387,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 120,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.6
+    }
+  },
+  {
+    "Source": 121,
+    "Target": 201,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 122,
+    "Target": 202,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 123,
+    "Target": 203,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 124,
+    "Target": 204,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 125,
+    "Target": 205,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 126,
+    "Target": 206,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 127,
+    "Target": 207,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 128,
+    "Target": 208,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 129,
+    "Target": 209,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 130,
+    "Target": 210,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 131,
+    "Target": 211,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 133,
+    "Target": 145,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "count": 1
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 171,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "discovery_year": 2021
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 386,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 45.6,
+      "tech": 81.4
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 198,
+    "RelationshipType": "HAS_PERIOD",
+    "Properties": {}
+  },
+  {
+    "Source": 133,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 1.0
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 388,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 133,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.4
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.9
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 133,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 384,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 65.1,
+      "tech": 328.1
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 385,
+    "RelationshipType": "HAS_THEME",
+    "Properties": {
+      "feminism": 65.1,
+      "tech": 328.1
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 389,
+    "RelationshipType": "BELONGS_TO_ERA",
+    "Properties": {}
+  },
+  {
+    "Source": 134,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": -0.19999999999999996
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.30000000000000004
+    }
+  },
+  {
+    "Source": 134,
+    "Target": 397,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.8
+    }
+  },
+  {
+    "Source": 135,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 136,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 137,
+    "Target": 378,
+    "RelationshipType": "AFFECTED_BY",
+    "Properties": {
+      "influence": 0.99
+    }
+  },
+  {
+    "Source": 137,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 137,
+    "Target": 395,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": -0.30000000000000004
+    }
+  },
+  {
+    "Source": 137,
+    "Target": 396,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.19999999999999996
+    }
+  },
+  {
+    "Source": 137,
+    "Target": 397,
+    "RelationshipType": "INFLUENCED_BY",
+    "Properties": {
+      "temporal_weight": 0.7
+    }
+  },
+  {
+    "Source": 138,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 139,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 140,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 141,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 142,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 143,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 144,
+    "Target": 383,
+    "RelationshipType": "BELONGS_TO_DECADE",
+    "Properties": {
+      "decade_mapping_type": "exact_year"
+    }
+  },
+  {
+    "Source": 200,
+    "Target": 460,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 200,
+    "Target": 463,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 200,
+    "Target": 466,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 212,
+    "Target": 200,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 213,
+    "Target": 201,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 214,
+    "Target": 202,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 215,
+    "Target": 203,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 216,
+    "Target": 204,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 217,
+    "Target": 205,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 218,
+    "Target": 206,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 219,
+    "Target": 207,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 220,
+    "Target": 208,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 221,
+    "Target": 209,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 222,
+    "Target": 210,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 223,
+    "Target": 211,
+    "RelationshipType": "AUTHORED",
+    "Properties": {}
+  },
+  {
+    "Source": 224,
+    "Target": 200,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 224,
+    "Target": 203,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 225,
+    "Target": 201,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 226,
+    "Target": 202,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 227,
+    "Target": 204,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 228,
+    "Target": 205,
+    "RelationshipType": "PUBLISHED",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 231,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 232,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 233,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 234,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 235,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 236,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 237,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 238,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 239,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 240,
+    "RelationshipType": "CONTAINS_HIGH_FREQUENCY_WORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 241,
+    "RelationshipType": "CONTAINS_THEME_KEYWORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 242,
+    "RelationshipType": "CONTAINS_THEME_KEYWORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 243,
+    "RelationshipType": "CONTAINS_THEME_KEYWORD",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 210,
+    "RelationshipType": "ANALYZED_BOOK",
+    "Properties": {}
+  },
+  {
+    "Source": 230,
+    "Target": 229,
+    "RelationshipType": "ANALYZED_BOOK",
+    "Properties": {}
+  },
+  {
+    "Source": 245,
+    "Target": 423,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 245,
+    "Target": 425,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 245,
+    "Target": 461,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 245,
+    "Target": 464,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 245,
+    "Target": 467,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 246,
+    "Target": 462,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 246,
+    "Target": 465,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 246,
+    "Target": 468,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 250,
+    "Target": 422,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 279,
+    "Target": 420,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 279,
+    "Target": 422,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 370,
+    "Target": 0,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 5,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 13,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 68,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 73,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 81,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 109,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 370,
+    "Target": 133,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 0,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 5,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 13,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 68,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 73,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 81,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 109,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 375,
+    "Target": 133,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 0,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 5,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 13,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 68,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 73,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Gender Perspective Reversal"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 81,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Racial Narrative Reconstruction"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 109,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 376,
+    "Target": 133,
+    "RelationshipType": "REIMAGINES",
+    "Properties": {
+      "influence_type": "Feminist Reinterpretation"
+    }
+  },
+  {
+    "Source": 398,
+    "Target": 460,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 398,
+    "Target": 463,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 398,
+    "Target": 466,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 399,
+    "Target": 418,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 399,
+    "Target": 461,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 399,
+    "Target": 464,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 399,
+    "Target": 467,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 400,
+    "Target": 419,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 400,
+    "Target": 462,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 400,
+    "Target": 465,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 400,
+    "Target": 468,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 402,
+    "Target": 423,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 402,
+    "Target": 425,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 409,
+    "Target": 418,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 411,
+    "Target": 422,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 412,
+    "Target": 421,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 413,
+    "Target": 418,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 414,
+    "Target": 419,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 417,
+    "Target": 419,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 429,
+    "Target": 460,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 429,
+    "Target": 463,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 429,
+    "Target": 466,
+    "RelationshipType": "HAS_ENTROPY",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 433,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 434,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 435,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 436,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 437,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 438,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 432,
+    "Target": 439,
+    "RelationshipType": "RELATED_TO",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 443,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 444,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 445,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 446,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 447,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 448,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 449,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 450,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 451,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 452,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 453,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 454,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 455,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 456,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 457,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 458,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 442,
+    "Target": 459,
+    "RelationshipType": "INFLUENCES",
+    "Properties": {}
+  },
+  {
+    "Source": 469,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 469,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 470,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 471,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 478,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 479,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 480,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 487,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 488,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 489,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 496,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 497,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 498,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 505,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 506,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 507,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 514,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 515,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 516,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 523,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Polyphonic, personalized, and emotionally rich narrative style"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 472,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 473,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 481,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 482,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 490,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 491,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 499,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 500,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 508,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 509,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 517,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 518,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 526,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 524,
+    "Target": 527,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Environmentally oriented, mysterious, and institutionalized voice"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 474,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 475,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 476,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 477,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 483,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 484,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 485,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 486,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 492,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 493,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 494,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 495,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 501,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 502,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 503,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 504,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 510,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 511,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 512,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 513,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 519,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 520,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 521,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 522,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 528,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Frequent postcolonial terms with neutral or slightly negative sentiment"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 529,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Lexical Diversity"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 530,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Syntactic Structure"
+    }
+  },
+  {
+    "Source": 525,
+    "Target": 531,
+    "RelationshipType": "ANALYZED_BY",
+    "Properties": {
+      "result": "Postcolonial terms associated with negative sentiments"
+    }
+  },
+  {
+    "Source": 539,
+    "Target": 534,
+    "RelationshipType": "ASSOCIATED_WITH",
+    "Properties": {}
+  },
+  {
+    "Source": 539,
+    "Target": 535,
+    "RelationshipType": "ASSOCIATED_WITH",
+    "Properties": {}
+  },
+  {
+    "Source": 539,
+    "Target": 536,
+    "RelationshipType": "ASSOCIATED_WITH",
+    "Properties": {}
+  },
+  {
+    "Source": 539,
+    "Target": 537,
+    "RelationshipType": "ASSOCIATED_WITH",
+    "Properties": {}
+  },
+  {
+    "Source": 539,
+    "Target": 538,
+    "RelationshipType": "ASSOCIATED_WITH",
+    "Properties": {}
+  }
+]
